@@ -19,6 +19,8 @@ function pressIt () {
   });
 }
 
+function 
+
 
 $(document).ready(function(){
 
