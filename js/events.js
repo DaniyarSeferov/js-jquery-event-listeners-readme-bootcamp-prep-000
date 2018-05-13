@@ -15,5 +15,7 @@ function frameIt () {
   });
 }
 
-function 
+function pressIt () {
+  $('form input').on('');
+}
 });
