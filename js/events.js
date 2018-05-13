@@ -20,7 +20,7 @@ function pressIt () {
 }
 
 function submitIt () {
-  
+  $('form submit')
 }
 
 
